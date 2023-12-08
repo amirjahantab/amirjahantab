@@ -1,5 +1,6 @@
 ### Hi there👋 I'm Amirreza. A Software Engineer with expertise in Backend Development
 #### I am a computer science student, and an enthusiastic programmer eager to learn.
+
 I'm working with:
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
@@ -12,7 +13,7 @@ I'm working with:
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
-
+I am not a senior programmer, but I am always learning
 <!--
 **amirjahantab/amirjahantab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
