@@ -2,7 +2,8 @@
 #### I am a computer science student, and an enthusiastic programmer eager to learn.
 I am not a senior programmer, but I am always learning.
 
-<br><br><br>
+
+
 
 I'm working with:
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -16,7 +17,6 @@ I'm working with:
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
-<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirjahantab&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
