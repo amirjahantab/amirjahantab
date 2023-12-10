@@ -1,6 +1,9 @@
 ### Hi there👋 I'm Amirreza. A Software Engineer with expertise in Backend Development
 #### I am a computer science student, and an enthusiastic programmer eager to learn.
-I am not a senior programmer, but I am always learning <br><br><br>
+I am not a senior programmer, but I am always learning.
+
+<br><br><br>
+
 I'm working with:
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
