@@ -18,9 +18,9 @@ I'm working with:
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirjahantab&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 **amirjahantab/amirjahantab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
