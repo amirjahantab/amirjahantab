@@ -1,3 +1,4 @@
+
 ### Hi there👋 I'm Amirreza. A Software Engineer with expertise in Backend Development
 #### I am a computer science student, and an enthusiastic programmer eager to learn.
 #### I am not a senior programmer, but I am always learning.
@@ -14,8 +15,8 @@ I'm working with:
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-
-
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff">
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirjahantab&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
