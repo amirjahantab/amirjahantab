@@ -1,14 +1,13 @@
 
-### Hi there👋 I'm Amirreza. A Software Engineer with expertise in Backend Development
-#### I am a computer science student, and an enthusiastic programmer eager to learn.
-#### I am not a senior programmer, but I am always learning.
+## Hi there 👋
 
-
-
+I'm a junior data scientist, My expertise lies in using statistical analysis and machine learning techniques to solve complex business problems and drive data-driven decision making.
 
 I'm working with:
 <img src="https://skillicons.dev/icons?i=matlab">
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
