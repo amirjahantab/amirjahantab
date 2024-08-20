@@ -19,6 +19,24 @@ I'm working with:
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff">
+
+<br>
+
+
+## 🌱 Projects
+Here are some of my projects that showcase my skills and expertise:
+### CIFAR-10 Image Classifier
+This project showcases the classification of the CIFAR-10 dataset using three different neural network architectures: a Linear Model, an Artificial Neural Network (ANN), and a Convolutional Neural Network (CNN).The model achived an Top 3 Accuracy over $94$%.
+
+Check out the [repository](https://github.com/amirjahantab/CIFAR-10) for more information.
+
+
+### Cat vs Dog Classifier
+This project focuses on classifying images of cats and dogs using Convolutional Neural Networks (CNNs) with PyTorch. The dataset used for this project is from Kaggle's ["Dogs vs Cats Redux"](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition) competition.
+
+Check out the [repository](https://github.com/amirjahantab/Cats_vs_Dogs_Classification) for more information.
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirjahantab&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
