@@ -37,6 +37,8 @@ This project focuses on classifying images of cats and dogs using Convolutional 
 Check out the [repository](https://github.com/amirjahantab/Cats_vs_Dogs_Classification) for more information.
 
 
+## 📫 Let's connect
+I'm always eager to connect with fellow data scientists and industry professionals. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amirreza-jahantab).
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirjahantab&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
