@@ -3,6 +3,17 @@
 
 I'm a junior data scientist, My expertise lies in using statistical analysis and machine learning techniques to solve complex business problems and drive data-driven decision making.
 
+# 🔭 Expertise
+* Python and Matlab 
+* Statistical Analysis
+* Machine learning (supervised and unsupervised learning)
+* Deep learning
+* Data visualization and storytelling
+* Computer Vision
+* Linux
+  
+
+<!--
 I'm working with:
 <img src="https://skillicons.dev/icons?i=matlab">
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -21,18 +32,24 @@ I'm working with:
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff">
 
 <br>
+-->
 
-
-## 🌱 Projects
+# 🌱 Projects
 Here are some of my projects that showcase my skills and expertise:
-### CIFAR-10 Image Classifier
+
+## Facial Recognition
+This project focuses on the development and implementation of a face recognition system using deep learning techniques.The dataset used for this project is from [Kaggle's](https://www.kaggle.com/kasikrit/att-database-of-faces) competition
+
+Check out the [repository](https://github.com/amirjahantab/Face_Recognition/) for more information
+
+## CIFAR-10 Image Classifier
 This project showcases the classification of the CIFAR-10 dataset using three different neural network architectures: a Linear Model, an Artificial Neural Network (ANN), and a Convolutional Neural Network (CNN).The model achived an Top 3 Accuracy over $94$%.
 
 Check out the [repository](https://github.com/amirjahantab/CIFAR-10) for more information.
 
 
-### Cat vs Dog Classifier
-This project focuses on classifying images of cats and dogs using Convolutional Neural Networks (CNNs) with PyTorch. The dataset used for this project is from Kaggle's ["Dogs vs Cats Redux"](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition) competition.
+## Cat vs Dog Classifier
+This project focuses on classifying images of cats and dogs using Convolutional Neural Networks (CNNs) with PyTorch. The dataset used for this project is from Kaggle's [Dogs vs Cats Redux](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition) competition.
 
 Check out the [repository](https://github.com/amirjahantab/Cats_vs_Dogs_Classification) for more information.
 
