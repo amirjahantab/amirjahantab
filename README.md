@@ -4,15 +4,14 @@
 I'm a junior data scientist, My expertise lies in using statistical analysis and machine learning techniques to solve complex business problems and drive data-driven decision making.
 
 # 🔭 Expertise
-* Python and Matlab 
+* Python 
 * Statistical Analysis
 * Machine learning (supervised and unsupervised learning)
 * Deep learning
 * Data visualization and storytelling
 * Computer Vision
 * Linux
-* Backend Developer (Django, RestAPT, Flask)
-  
+* Familiar with Backend Development (Django, Flask, RestART)  
 
 <!--
 I'm working with:
@@ -37,6 +36,12 @@ I'm working with:
 
 # 🌱 Projects
 Here are some of my projects that showcase my skills and expertise:
+
+## Object Localization and Classification
+implementation of an object localization and classification model, focusing on the task of identifying and locating objects within images. The dataset used for this project is from [Kaggle's](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) competition. The model achived an Accuracy over $95$%.
+
+Check out the [repository](https://github.com/amirjahantab/Object_Localization_and_Classification) for more information.
+
 
 ## Facial Recognition
 This project focuses on the development and implementation of a face recognition system using deep learning techniques.The dataset used for this project is from [Kaggle's](https://www.kaggle.com/kasikrit/att-database-of-faces) competition
