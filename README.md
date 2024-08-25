@@ -59,6 +59,11 @@ This project focuses on classifying images of cats and dogs using Convolutional 
 
 Check out the [repository](https://github.com/amirjahantab/Cats_vs_Dogs_Classification) for more information.
 
+## Digit Classifier
+This project explores the implementation of a custom activation function in a CNN model for digit classification using the MNIST dataset. The PPRsigELU activation function introduces flexibility through learnable parameters, potentially improving the model's performance.
+
+Check out the [repository](https://github.com/amirjahantab/MNIST_Classifiers-PPRsigELU-) for more information.
+
 
 ## 📫 Let's connect
 I'm always eager to connect with fellow data scientists and industry professionals. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amirreza-jahantab).
