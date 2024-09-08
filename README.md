@@ -11,7 +11,7 @@ I'm a junior data scientist, My expertise lies in using statistical analysis and
 * Data visualization and storytelling
 * Computer Vision
 * Linux
-* Familiar with Backend Development (Django, Flask, RestART)  
+* Familiar with Backend Development (Django, Flask, RestAPI)  
 
 <!--
 I'm working with:
