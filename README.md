@@ -37,6 +37,11 @@ I'm working with:
 # 🌱 Projects
 Here are some of my projects that showcase my skills and expertise:
 
+## Building a Word-Level Language Model for Persian
+Developed a word-level language model for Persian text using *Masnavi* by Rumi, applying LSTM neural networks in TensorFlow/Keras for text generation. Implemented preprocessing, tokenization, and sequence modeling to predict and generate Persian language sequences.
+
+Check out the [repository](https://github.com/amirjahantab/MasnaviLM/) for more information.
+
 ## Object Localization and Classification
 implementation of an object localization and classification model, focusing on the task of identifying and locating objects within images. The dataset used for this project is from [Kaggle's](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) competition. The model achived an Accuracy over $95$%.
 
@@ -64,10 +69,10 @@ This project explores the implementation of a custom activation function in a CN
 
 Check out the [repository](https://github.com/amirjahantab/MNIST_Classifiers-PPRsigELU-) for more information.
 
-
+<!--
 ## 📫 Let's connect
 I'm always eager to connect with fellow data scientists and industry professionals. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amirreza-jahantab).
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirjahantab&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **amirjahantab/amirjahantab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
