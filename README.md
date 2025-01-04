@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm a junior data scientist, My expertise lies in using statistical analysis and machine learning techniques to solve complex business problems and drive data-driven decision making.
+I'm a junior data scientist, My expertise lies in using statistical analysis and machine learning techniques.
 
 # 🔭 Expertise
 * Python 
