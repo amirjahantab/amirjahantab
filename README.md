@@ -5,10 +5,10 @@ I'm a junior data scientist, My expertise lies in using statistical analysis and
 
 # 🔭 Expertise
 * Python 
-* Statistical Analysis
-* Machine learning (supervised and unsupervised learning)
+* Advanced Statistical Analysis (`EDA`, `Inferential` and `descriptive ` Statistics)
+* Machine learning (`supervised` and `unsupervised` learning)
 * Deep learning
-* Data visualization and storytelling
+* Data visualization (`Matplotlib`, `Seaborn`, `Dash`)
 * Computer Vision
 * Linux
 * Familiar with Backend Development (Django, Flask, RestAPI)  
