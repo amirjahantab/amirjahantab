@@ -42,6 +42,12 @@ Developed a word-level language model for Persian text using *Masnavi* by Rumi, 
 
 Check out the [repository](https://github.com/amirjahantab/MasnaviLM/) for more information.
 
+## Built a Persian news classification
+Built a Persian news classification model using Support Vector Machines (SVM) with Scikit-learn. Applied text preprocessing, tokenization with Hazm, and TF-IDF vectorization to classify news articles into categories. Trained and evaluated the model on real-world Persian news data.
+
+Check out the [repository](https://github.com/amirjahantab/PersianNewsClassifier) for more information.
+
+
 ## Object Localization and Classification
 implementation of an object localization and classification model, focusing on the task of identifying and locating objects within images. The dataset used for this project is from [Kaggle's](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) competition. The model achived an Accuracy over $95$%.
 
