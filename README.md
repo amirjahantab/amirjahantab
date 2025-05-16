@@ -11,6 +11,7 @@ I'm a junior data scientist, My expertise lies in using statistical analysis and
 * Data visualization (`Matplotlib`, `Seaborn`, `Dash`)
 * Computer Vision
 * Linux
+* SQL Server
 * Familiar with Backend Development (Django, Flask, RestAPI)  
 
 <!--
